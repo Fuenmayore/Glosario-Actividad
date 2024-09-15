@@ -20,7 +20,7 @@ El proyecto consiste en dos partes:
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/Fuenmayore/Glosario-Actividad.git
 
 
 Uso

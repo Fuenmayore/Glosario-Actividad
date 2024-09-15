@@ -19,8 +19,7 @@ your_project/ ├── app/ │ ├── init.py │ ├── controllers/ �
 
 1. **Clona el repositorio**:
     ```bash
-    git clone <url-del-repositorio>
-    cd <nombre-del-repositorio>
+    git clone https://github.com/Fuenmayore/Glosario-Actividad.git
     ```
 
 2. **Crea un entorno virtual**:

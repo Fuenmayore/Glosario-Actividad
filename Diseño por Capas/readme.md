@@ -29,6 +29,10 @@ Este proyecto es una aplicación básica en Flask que muestra una lista de usuar
    - Ejecuta la función `main()` desde la vista, iniciando la aplicación.
 
 ## Cómo Ejecutar el Proyecto
+ **Clona el repositorio**:
+    ```bash
+    git clone https://github.com/Fuenmayore/Glosario-Actividad/tree/main/Cliente-Servidor.git
+    ```
 
 Para ejecutar el proyecto, sigue estos pasos:
 

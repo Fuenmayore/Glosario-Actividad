@@ -15,8 +15,8 @@ El script principal (`main`) solicita al usuario una lista de números enteros s
 1. **Clona el repositorio o copia el script a tu máquina local.**
    
    ```bash
-   git clone <URL del repositorio>
-
+   git clone https://github.com/Fuenmayore/Glosario-Actividad.git
+```
 
 ## Funcionamiento Interno
 **Función worker(num, queue)**:
